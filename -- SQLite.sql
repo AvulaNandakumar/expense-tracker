@@ -1,0 +1,3 @@
+-- SQLite
+--CREATE TABLE transactions(id INTEGER PRIMARY KEY,type TEXT,category TEXT,amount INTEGER,date DATE,description TEXT);
+--CREATE TABLE category(id INTEGER PRIMARY KEY AUTOINCREMENT,name VARCHAR(250),type VARCHAR(250));
